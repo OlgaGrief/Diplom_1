@@ -1,5 +1,4 @@
-import Data.Constants;
-import Data.TestDataRandom;
+import data.*;
 import jdk.jfr.Description;
 import org.junit.Before;
 import org.junit.Test;
